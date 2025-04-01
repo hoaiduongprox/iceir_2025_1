@@ -119,7 +119,7 @@ main{
     padding-bottom: 3%;
     /* background-image: url(); */
     background: linear-gradient(to bottom,  rgba(11, 38, 156, 0), rgba(11, 38, 156, 0.596)), 
-                url(/assets/img/bg-page.jpg) center/cover no-repeat;
+                url("../img/bg-page.jpg") center/cover no-repeat;
     background-repeat: no-repeat;
 
     position: relative;
@@ -234,7 +234,7 @@ main{
 }
 
 .container-3{
-    background: linear-gradient(to bottom, rgba(11, 156, 144, 0.8), rgba(4, 97, 74, 0.8)), url(/assets/img/DSC00399.jpg) center / cover no-repeat;
+    background: linear-gradient(to bottom, rgba(11, 156, 144, 0.8), rgba(4, 97, 74, 0.8)), url("../img/DSC00399.jpg") center / cover no-repeat;
     color: #fff;
 }
 
@@ -457,7 +457,7 @@ main{
 }
 
 .container-6 {
-    background: linear-gradient(to bottom, rgba(11, 57, 156, 0.856), rgba(1, 6, 27, 0.938)), url(/assets/img/A6401287.jpg) center / cover no-repeat;
+    background: linear-gradient(to bottom, rgba(11, 57, 156, 0.856), rgba(1, 6, 27, 0.938)), url("../img/A6401287.jpg") center / cover no-repeat;
     background-color: #153cbeb9;
     display: flex;
     flex-direction: column;
@@ -510,7 +510,7 @@ main{
 }
 
 footer {
-    background: linear-gradient(to bottom, rgba(11, 38, 156, 0.8), rgba(11, 38, 156, 0.8)), url(/assets/img/mark-background.jpg) center / cover no-repeat;
+    background: linear-gradient(to bottom, rgba(11, 38, 156, 0.8), rgba(11, 38, 156, 0.8)), url("../img/mark-background.jpg") center / cover no-repeat;
     background-repeat: no-repeat;
     display: flex;
     color: #fff;
